@@ -1,0 +1,9 @@
+device123#&Ethernet1/1&to CORE1  - E7/3, E9/3 PO 41&up&&10 Gb/s&full-duplex&10Gbase-SR&Po300&-&-&-&10.10.4.138/29&9216&CORE1.domain.com(TBM12345678)&N7K-C7010&Ethernet4/16&35week(s) 6day(s)
+device123#&Ethernet1/2&to CORE1  - E7/3, E9/3 PO 41&up&&10 Gb/s&full-duplex&10Gbase-SR&Po300&-&-&-&10.10.4.138/29&9216&CORE1.domain.com(TBM13456789)&N7K-C7010&Ethernet9/3&35week(s) 6day(s)
+device123#&Ethernet1/3&Keep-alive&up&&10 Gb/s&full-duplex&10Gbase-SR&-&-&-&-&10.10.10.10/29&1500&device234.domain.com(FOX12345678)&N5K-C5596UP&Ethernet1/13&68week(s) 1day(s)
+device123#&Ethernet1/4&Local Port E1/10 to device234&up&&10 Gb/s&full-duplex&10Gbase-SR&Po304&trunk&1&'33,35,883-885,1623&-&1500&device234.domain.com(FOX12345678)&N5K-C5596UP&Ethernet1/10&68week(s) 1day(s)
+device123#&Ethernet1/5&&down (SFP not inserted)&&10 Gb/s&auto-duplex&No Transceiver Present&-&access&-&1&-&1500&-&-&-&never
+device123#&Ethernet1/6&&down (SFP not inserted)&&10 Gb/s&auto-duplex&No Transceiver Present&-&access&-&1&-&1500&-&-&-&never
+device123#&Ethernet1/7&to CORE2 - E7/3, E7/3 PO 41&up&&10 Gb/s&full-duplex&10Gbase-SR&Po301&-&-&-&10.10.5.138/29&9216&CORE2.domain.com(JAF12345678)&N7K-C7010&Ethernet4/16&35week(s) 6day(s)
+device123#&Ethernet1/8&FEX0190 device234 and device123&up&&10 Gb/s&full-duplex&Fabric&Po190&fex-fabric&-&-&-&1500&-&-&-&31week(s) 0day(s)
+device123#&Ethernet1/9&to CORE2 - E7/3, E7/3 PO 41&up&&10 Gb/s&full-duplex&10Gbase-SR&Po301&-&-&-&10.10.5.138/29&9216&CORE2.domain.com(JAF12345678)&N7K-C7010&Ethernet9/6&35week(s) 6day(s)
